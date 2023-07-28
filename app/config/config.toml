@@ -1,0 +1,13 @@
+[user.A]
+ANDROID_COOKIE = "z_me=; is_dark_mode=0; partner_name=xiaomi; pid=1WvWunVUuOY0DgkovDainh9Vd2VMz63vO7iCWiIXr6dzbfQDpoHn1A%3D%3D; device_type=Redmi23049RAD8C; z_dr=d4c278042dcfada4970b9355ecc80823; sessionID=e6c3bcea2df1096b9695be8a2fca6b26.1690528025471; basic_v=0; client_id=e6c3bcea2df1096b9695be8a2fca6b26.1690528025373; network=1; device_system_version=13; partner_id=20; device_s=d4c278042dcfada4970b9355ecc80823; smzdm_version=10.5.5; device_smzdm=android; apk_partner_name=xiaomi; device_id=d4c278042dcfada4970b9355ecc80823; apk_partner_id=20; session_id=e6c3bcea2df1096b9695be8a2fca6b26.1690528025471; device_smzdm_version=10.5.5; device_rid=e6c3bcea2df1096b9695be8a2fca6b26; z_ai=9483c02af521e86093dd021ded244b74; new_device_id=d4c278042dcfada4970b9355ecc80823; device_smzdm_version_code=905; f=android; v=10.5.5; coupon_h5=; __ckguid=pTH5hi8CU1Fo1h22KYSWAuC6; device_recfeed_setting=%7B%22haojia_recfeed_switch%22%3A%221%22%2C%22homepage_sort_switch%22%3A%221%22%2C%22other_recfeed_switch%22%3A%221%22%2C%22shequ_recfeed_switch%22%3A%221%22%7D; sess=BB-2N0Bb8tBaaLqjkQ83sL8nqLC4tLOqAQkv5z9Ebe%2Bw8K5fWCnFPDhKgnh7aRgGGc4fWZjCa68y7XYnsY5uwyZskldMhc%3D; login=1; register_time=1385221174; ab_test=g; smzdm_id=2455611295; active_time=1690528035; font_size=normal; device_push=1; is_new_user=0; last_article_info=%7B%22article_id%22%3A%2286311842%22%2C%22article_channel_id%22%3A%221%22%7D"
+
+[user.B]
+ANDROID_COOKIE = ""
+
+[notify]
+PUSH_PLUS_TOKEN = ""
+SC_KEY = ""
+TG_BOT_TOKEN = ""
+TG_USER_ID = ""
+TG_BOT_API = ""
+WECOM_BOT_WEBHOOK = ""
